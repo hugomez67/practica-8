@@ -1,6 +1,6 @@
 /*Gomez Hernandez Hugo Santiago
 Practica 8
-Ejercicio programa 1*/
+Ejercicio programa 3*/
 
 #include <stdio.h>
 int main ()
