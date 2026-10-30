@@ -1,3 +1,7 @@
+/*Gomez Hernandez Hugo Santiago
+Practica 8
+Ejercicio programa 6*/
+
 #include <stdio.h>
 #define MAX 5
 int main ()
